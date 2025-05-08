@@ -1,4 +1,4 @@
-# 🧠 TAIS Exercises
+# 🧠 ATSE Exercises
 
 Welcome! This repository contains **all (Advanced Techniques in Software Engineering) exercises solved**.  
 Each solution is written with clarity and efficiency in mind to help students and fellow developers learn and improve.
